@@ -17,6 +17,8 @@ Please follow operations that shown below to run this project.
 
 * Run `docker-compose up -d todo_server`
 
+**_NOTE:_** Postman Collection file can be found at this [address](https://github.com/sinyorre/hepsitodo-backend/blob/master/hepsiemlak.postman_collection.json)
+
 ### Start the UI App
 
 * If everything is ok, you can run the ui application that shown this [repo](https://github.com/sinyorre/hepsitodo-ui).
